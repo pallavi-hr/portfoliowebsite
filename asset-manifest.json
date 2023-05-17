@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfoliowebsite/static/css/main.073c9b0a.css",
+    "main.js": "/portfoliowebsite/static/js/main.7b0381c6.js",
+    "static/js/787.b755f208.chunk.js": "/portfoliowebsite/static/js/787.b755f208.chunk.js",
+    "static/media/PallaviPateel.mp4": "/portfoliowebsite/static/media/PallaviPateel.8e3f1e8eac73f77dc722.mp4",
+    "index.html": "/portfoliowebsite/index.html",
+    "main.073c9b0a.css.map": "/portfoliowebsite/static/css/main.073c9b0a.css.map",
+    "main.7b0381c6.js.map": "/portfoliowebsite/static/js/main.7b0381c6.js.map",
+    "787.b755f208.chunk.js.map": "/portfoliowebsite/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7b0381c6.js"
+  ]
+}
